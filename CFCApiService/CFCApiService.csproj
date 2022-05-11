@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="ExcelMapper" Version="5.2.394" />
+    <PackageReference Include="Microsoft.AspNetCore.Http.Features" Version="5.0.16" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CFCApiModal\CFCApiModal.csproj" />
+    <ProjectReference Include="..\CFCApiRepository\CFCApiRepository.csproj" />
+  </ItemGroup>
+
+</Project>

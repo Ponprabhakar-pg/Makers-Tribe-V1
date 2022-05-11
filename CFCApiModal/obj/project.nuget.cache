@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ekob75h9y5uxuQV753OyzxMww3b4E1dJMY+FAOi0ucXUxGWV72jzah5PMKwQqEhDag4tDC7vlpxgqc101scUJQ==",
+  "success": true,
+  "projectFilePath": "D:\\C#\\MakersTribeAPI\\CFCApiModal\\CFCApiModal.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PonprabhakarS\\.nuget\\packages\\mongodb.bson\\2.15.1\\mongodb.bson.2.15.1.nupkg.sha512",
+    "C:\\Users\\PonprabhakarS\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+D:\C#\MakersTribeAPI\JSApiRepository\bin\Debug\netcoreapp3.1\JSApiRepository.deps.json
+D:\C#\MakersTribeAPI\JSApiRepository\bin\Debug\netcoreapp3.1\JSApiRepository.dll
+D:\C#\MakersTribeAPI\JSApiRepository\bin\Debug\netcoreapp3.1\JSApiRepository.pdb
+D:\C#\MakersTribeAPI\JSApiRepository\obj\Debug\netcoreapp3.1\JSApiRepository.csproj.AssemblyReference.cache
+D:\C#\MakersTribeAPI\JSApiRepository\obj\Debug\netcoreapp3.1\JSApiRepository.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\MakersTribeAPI\JSApiRepository\obj\Debug\netcoreapp3.1\JSApiRepository.AssemblyInfoInputs.cache
+D:\C#\MakersTribeAPI\JSApiRepository\obj\Debug\netcoreapp3.1\JSApiRepository.AssemblyInfo.cs
+D:\C#\MakersTribeAPI\JSApiRepository\obj\Debug\netcoreapp3.1\JSApiRepository.csproj.CoreCompileInputs.cache
+D:\C#\MakersTribeAPI\JSApiRepository\obj\Debug\netcoreapp3.1\JSApiRepository.dll
+D:\C#\MakersTribeAPI\JSApiRepository\obj\Debug\netcoreapp3.1\JSApiRepository.pdb

@@ -1,0 +1,10 @@
+D:\C#\MakersTribeAPI\CFCApiModal\bin\Debug\netcoreapp3.1\CFCApiModal.deps.json
+D:\C#\MakersTribeAPI\CFCApiModal\bin\Debug\netcoreapp3.1\CFCApiModal.dll
+D:\C#\MakersTribeAPI\CFCApiModal\bin\Debug\netcoreapp3.1\CFCApiModal.pdb
+D:\C#\MakersTribeAPI\CFCApiModal\obj\Debug\netcoreapp3.1\CFCApiModal.csproj.AssemblyReference.cache
+D:\C#\MakersTribeAPI\CFCApiModal\obj\Debug\netcoreapp3.1\CFCApiModal.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\MakersTribeAPI\CFCApiModal\obj\Debug\netcoreapp3.1\CFCApiModal.AssemblyInfoInputs.cache
+D:\C#\MakersTribeAPI\CFCApiModal\obj\Debug\netcoreapp3.1\CFCApiModal.AssemblyInfo.cs
+D:\C#\MakersTribeAPI\CFCApiModal\obj\Debug\netcoreapp3.1\CFCApiModal.csproj.CoreCompileInputs.cache
+D:\C#\MakersTribeAPI\CFCApiModal\obj\Debug\netcoreapp3.1\CFCApiModal.dll
+D:\C#\MakersTribeAPI\CFCApiModal\obj\Debug\netcoreapp3.1\CFCApiModal.pdb

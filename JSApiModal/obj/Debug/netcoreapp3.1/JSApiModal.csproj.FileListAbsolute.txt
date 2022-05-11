@@ -1,0 +1,10 @@
+D:\C#\MakersTribeAPI\JSApiModal\bin\Debug\netcoreapp3.1\JSApiModal.deps.json
+D:\C#\MakersTribeAPI\JSApiModal\bin\Debug\netcoreapp3.1\JSApiModal.dll
+D:\C#\MakersTribeAPI\JSApiModal\bin\Debug\netcoreapp3.1\JSApiModal.pdb
+D:\C#\MakersTribeAPI\JSApiModal\obj\Debug\netcoreapp3.1\JSApiModal.csproj.AssemblyReference.cache
+D:\C#\MakersTribeAPI\JSApiModal\obj\Debug\netcoreapp3.1\JSApiModal.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\MakersTribeAPI\JSApiModal\obj\Debug\netcoreapp3.1\JSApiModal.AssemblyInfoInputs.cache
+D:\C#\MakersTribeAPI\JSApiModal\obj\Debug\netcoreapp3.1\JSApiModal.AssemblyInfo.cs
+D:\C#\MakersTribeAPI\JSApiModal\obj\Debug\netcoreapp3.1\JSApiModal.csproj.CoreCompileInputs.cache
+D:\C#\MakersTribeAPI\JSApiModal\obj\Debug\netcoreapp3.1\JSApiModal.dll
+D:\C#\MakersTribeAPI\JSApiModal\obj\Debug\netcoreapp3.1\JSApiModal.pdb

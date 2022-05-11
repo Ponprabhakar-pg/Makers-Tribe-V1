@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "2LSXkdLX39Ajl1Yf1ULnz1MHaMDmCMI2Y7ztbP9oBlnTTqmgAIh9EbQ9a0g75LN1secsV5djaH6CV6rqQoTA7g==",
+  "success": true,
+  "projectFilePath": "D:\\C#\\MakersTribeAPI\\JSApiModal\\JSApiModal.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PonprabhakarS\\.nuget\\packages\\mongodb.bson\\2.15.1\\mongodb.bson.2.15.1.nupkg.sha512",
+    "C:\\Users\\PonprabhakarS\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

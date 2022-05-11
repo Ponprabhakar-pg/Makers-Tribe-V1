@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore.SwaggerGen" Version="6.3.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore.SwaggerUI" Version="6.3.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CFCApiModal\CFCApiModal.csproj" />
+    <ProjectReference Include="..\CFCApiRepository\CFCApiRepository.csproj" />
+    <ProjectReference Include="..\CFCApiService\CFCApiService.csproj" />
+    <ProjectReference Include="..\JSApiModal\JSApiModal.csproj" />
+    <ProjectReference Include="..\JSApiRepository\JSApiRepository.csproj" />
+    <ProjectReference Include="..\JSApiService\JSApiService.csproj" />
+  </ItemGroup>
+
+
+</Project>
